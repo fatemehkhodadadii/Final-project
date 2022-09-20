@@ -1,7 +1,7 @@
 # Final-project
 97143013
 
-                                                                                                                                            دستورات اجرای پروژه:
+ دستورات اجرای پروژه:
 
 php artisan migrate
 
